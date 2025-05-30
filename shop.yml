@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: oopsw_com_key_test_oopsw_com_key_test
+  secret: oopsw_com_key_oopsw_com_key_test
 
 gateway:
   ip: 192.168.45.221
