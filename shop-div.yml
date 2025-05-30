@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: oopsw_com_key_oopsw_com_key_shop_default
+  secret: oopsw_com_key_oopsw_com_key_shop_dev
 
 gateway:
   ip: 192.168.45.221
