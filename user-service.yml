@@ -16,4 +16,4 @@ order_service:
   exception:
     orders_is_empty: user's orders is empty check
 gateway:
-  ip: 192.168.45.221
+  ip: 172.18.0.5
