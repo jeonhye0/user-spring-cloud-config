@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
     driverClassName: org.h2.Driver
-    username: '{cipher}AQBPyIAzhHuPwi23UI9uUzE0zDsaW+EuWLmPMpxr7ImBUuknFz2eEugTAR5IK43/2gF+b/RzPA7RzcNFSFt5nbk3Sy4yeAU4OTk2fchQt5VvjWRZp0gM5EKFZ2P7cPcS157iQmfrpTHJxbav8s6F05T1Te3axnrgPJer/+WoQXiGWQDwjkr6Rq5RKT++clp4bSnI7LmpdDjJTHj9LisHIJnP/3NspK3mxgQrUf3mCZtcvowm6eNveD5EBg4boQsr/b09miPuXbh3ehQmj2hQRNrUBJpKEA8vpSt/y0jBpbftvPGaXMDKD0jeZGNul1PwYENldWV+H0quewaI08Oy9qsTHo1YnGm9WAs+FTiN55T1k5kvcLPz4MfRaNPXJ0p0608='
+    username: sa
     password:
 
 token:
